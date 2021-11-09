@@ -2,7 +2,6 @@
 
 
 
-
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
@@ -19,13 +18,13 @@
 <!--  <bean id= "Vehicle" class="com.gary.garys.Bike"> </bean > -->
 
 
+<!--   <bean id = "tyre" class =" com.gary.garys.Tyre"> -->
 
-<bean id = "tyre" class =" com.gary.garys.Tyre">
 
 
-<property name = "brand" value = "MRF" > </property>
+<!-- </bean> -->
 
-</bean>
+
 
 </beans>
 
